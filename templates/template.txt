@@ -1,0 +1,17 @@
+Welcome to Samsung!
+
+Dear User,
+
+Welcome! We're delighted that you've joined our community.
+
+This is just a friendly check-in to ensure you're having a great experience with us.
+If you have any questions or need assistance, please don't hesitate to reach out.
+
+Visit our website: {tracking_link}
+
+Kind regards,
+The Support Team
+
+---
+This is an automatically generated email.
+Unsubscribe: {unsubscribe_link}
